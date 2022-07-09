@@ -6,15 +6,15 @@
         double mediaConsumo = 3.6;
         int combMax = 26020;
 
-        Console.WriteLine("Insira a distância:");
+        Console.WriteLine("Insira a distância em KM:");
         string distTrecho = Console.ReadLine();
         int numDistTrecho = Int32.Parse(distTrecho);
 
-        Console.WriteLine("Insira a quantidade de KM do trecho alternativo:");
+        Console.WriteLine("Insira a quantidade em KM do trecho alternativo:");
         string altTrecho = Console.ReadLine();
         int numAltTrecho = Int32.Parse(altTrecho);
 
-        Console.WriteLine("Insira a quantidade combustivel já na aeronave:");
+        Console.WriteLine("Insira a quantidade de combustivel já na aeronave:");
         string aeroComb = Console.ReadLine();
         int numAeroComb = Int32.Parse(aeroComb);
 
