@@ -1,0 +1,15 @@
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.AssemblyInfo.cs
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\bin\Debug\net6.0\SupplyControl.exe
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\bin\Debug\net6.0\SupplyControl.deps.json
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\bin\Debug\net6.0\SupplyControl.runtimeconfig.json
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\bin\Debug\net6.0\SupplyControl.dll
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\bin\Debug\net6.0\SupplyControl.pdb
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.dll
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\refint\SupplyControl.dll
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.pdb
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\SupplyControl.genruntimeconfig.cache
+C:\Users\diego\Desktop\programacao\portifolio\SupplyControl\obj\Debug\net6.0\ref\SupplyControl.dll
